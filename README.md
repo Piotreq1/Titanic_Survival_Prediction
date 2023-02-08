@@ -1,10 +1,10 @@
 # Titanic_Survival_Prediction
 Predykcja przeżycia na Titanicu
 
-W projekcie zostały zastosowane 4 metody klasyfikacji do predykcji przeżycia pasażerów na Titanicu. 
-Są to: K-Nearest Neighbors, Random Forest, Decision Tree i Gaussian Naive Bayes. 
-Każda z metod została wdrożona w języku Python w środowisku Jupyter Notebook.
-Dane dotyczące pasażerów były analizowane, a następnie przetworzone i wykorzystane do treningu modeli. 
-Modele zostały sprawdzone pod kątem dokładności i porównane.
+In this project, 4 classification methods were used to predict the survival of Titanic passengers. 
+These are K-Nearest Neighbors, Random Forest, Decision Tree, and Gaussian Naive Bayes. 
+Each method was implemented in Python in the Jupyter Notebook environment. 
+Passenger data was analyzed, processed, and used to train the models.
+The models were tested for accuracy and compared.
 
-Dane: https://www.kaggle.com/competitions/titanic
+Data: https://www.kaggle.com/competitions/titanic
