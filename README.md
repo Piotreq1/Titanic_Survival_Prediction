@@ -1,5 +1,5 @@
 # Titanic_Survival_Prediction
-Predykcja przeżycia na Titanicu
+Survival Prediction on Titanic
 
 In this project, 4 classification methods were used to predict the survival of Titanic passengers. 
 These are K-Nearest Neighbors, Random Forest, Decision Tree, and Gaussian Naive Bayes. 
